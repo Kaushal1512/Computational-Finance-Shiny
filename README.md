@@ -18,7 +18,7 @@ install.packages(pkgs)
 ```
 7. To run the project either fork/download the files and run the `app.R`-file, or in R run <br>
 ```r
-shiny::runGitHub('Computational_Finance-Shiny', 'DhruvThakker')
+shiny::runGitHub('Computational_Finance-Shiny', 'Kaushal1512')
 ```
 OR
 
